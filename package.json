@@ -2,6 +2,7 @@
   "name": "temp-converter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://srikar-1729.github.io/Temperature-Converter",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -10,7 +11,7 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://Srikar-1729.github.io/Temperature-Converter"
+    
   },
   "scripts": {
     "predeploy": "npm run build",
